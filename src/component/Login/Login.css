@@ -1,0 +1,31 @@
+.bg {
+  background: url("../Login/image.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh !important;
+  width: 100%;
+}
+.for-center {
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -ms-transform: translate(-40%, -50%);
+  transform: translate(-50%, -50%);
+  padding: 10rem 1.5rem;
+  background-color: #ef7c7a;
+  border-radius: 16px;
+  opacity: 0.9;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.for-center h1 {
+  color: rgba(79, 99, 103, 1);
+  font-size: 32px;
+  line-height: 35px;
+  font-style: normal;
+  font-weight: bold;
+}

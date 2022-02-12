@@ -1,0 +1,16 @@
+input[type="radio"] {
+  width: 25px;
+  height: 25px;
+  transform: scale(1);
+  background-color: rgba(117, 162, 66, 1);
+}
+.custom-radio .custom-control-input:focus ::before {
+  box-shadow: 0 0 0 1px black, 0 0 0 0.2rem rgba(255, 123, 255, 0.25); /* pink, 25% opacity */
+}
+
+.custom-radio .custom-control-input ::before {
+  background-color: darkorange;
+}
+#customRadio1 {
+  background-color: blue;
+}

@@ -1,0 +1,20 @@
+.menu-toggle {
+  color: black;
+  float: left;
+  font-size: 24px;
+  cursor: pointer;
+  display: none;
+  margin-left: 230px;
+}
+@media (max-width: 991px) {
+  .menu-toggle {
+    display: block;
+  }
+  .show {
+    /* position: absolute;
+    left: -100%;
+    /* display: none; */
+    /* transition: 0.5s; */
+    display: none;
+  }
+}

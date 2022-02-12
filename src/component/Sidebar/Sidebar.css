@@ -1,0 +1,27 @@
+.side {
+  background-color: #b8d8d8;
+  height: 100%;
+  width: 100%;
+}
+.image {
+  justify-content: center;
+}
+.image img {
+  width: 125.62px;
+  height: 50.68px;
+  top: 9.32px;
+  left: 15.82px;
+}
+.nav-link {
+  font-weight: 700px;
+  font-size: 16px;
+  line-height: 22px;
+}
+.nav-link:hover {
+  background-color: rgba(79, 99, 103, 1);
+  border-radius: 10px;
+  padding-bottom: 0px;
+}
+/* .main { */
+/* margin-left: -80px; */
+/* } */

@@ -1,0 +1,48 @@
+.table_rights {
+  margin-left: auto;
+}
+
+.btncsv {
+  background-color: rgba(79, 99, 103, 1);
+  color: white;
+  padding: 10px 14px 30px 14px;
+  width: 44px;
+  border: 0px solid black;
+  border-radius: 4px;
+  text-align: center;
+  margin-right: 5px;
+}
+.top_table_top .table_rights i {
+  background-color: rgba(184, 216, 216, 1);
+  height: 40px;
+  padding-top: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  margin-right: 6px;
+  font-size: 20px;
+}
+.yellow {
+  color: rgba(255, 203, 47, 1);
+  font-size: 22px;
+}
+.orange {
+  color: rgba(255, 118, 41, 1);
+  font-size: 22px;
+}
+.blue {
+  color: rgba(52, 150, 224, 1);
+  font-size: 22px;
+}
+.green {
+  color: rgba(117, 162, 66, 1);
+  font-size: 22px;
+}
+.black {
+  color: rgba(32, 32, 32, 1);
+  font-size: 22px;
+}
+.red {
+  color: rgba(186, 0, 0, 1);
+  font-size: 22px;
+}

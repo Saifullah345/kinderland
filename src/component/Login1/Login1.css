@@ -1,0 +1,70 @@
+.mainn1 {
+  background: url("..//Login1/image.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh !important;
+  width: 100%;
+  background-color: black;
+}
+.main_data {
+  margin: 0;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: #ef7c7a;
+  border-radius: 16px;
+  padding: 2rem 4rem;
+  opacity: 0.9;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.input {
+  display: flex;
+  flex-direction: column;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+input[type="email"] {
+  background: transparent;
+  border: 1px solid white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+input[type="email"]:hover {
+  border: 1px solid white;
+  color: black;
+}
+input[type="password"] {
+  background: transparent;
+  border: 1px solid white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+input[type="password"] :hover {
+  border: 1px solid white;
+}
+
+.main_data a {
+  float: right;
+  color: white;
+  text-decoration: none;
+}
+.btn1 {
+  margin-top: 5vh;
+}
+.btn1 button {
+  background-color: #4f6367;
+  border: 1px solid #4f6367;
+  border-radius: 8px;
+  height: 45px;
+  color: white;
+}
+
+main_data h1 {
+  font-family: "Inter";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 35.2px;
+}
