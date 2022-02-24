@@ -71,7 +71,7 @@ const Admins = () => {
         >
           <div className="top d-flex mb-5">
             <h3 className="text-muted text-dark d-flex justify-content-start">
-              Admins Management
+              Admins Managements
             </h3>
             <div className="top_end d-flex justify-content-end">
               <a href="#">
